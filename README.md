@@ -16,6 +16,10 @@ The objective of this project is to develop an interactive Excel dashboard that 
 
 The dashboard is designed to answer operational business questions, simplify routine reporting, and make it easier to identify areas that may require further investigation. It also demonstrates the application of Excel-based data analysis, KPI reporting, interactive filtering, and data visualization to a practical business scenario.
 
+## 📁 Dataset Used
+
+- <a href="https://github.com/Ashrafulmondal527/Sales-and-Collections-Performance-Dashboard/blob/main/Sales%20%26%20Collection%20Dashboard.xlsx" >Dataset</a>
+
 ## ❓ Business Questions
 
 1. What is the total collection value for the selected reporting period?
@@ -29,6 +33,10 @@ The dashboard is designed to answer operational business questions, simplify rou
 9. Who are the top 10 customers ranked by sales or collection value?
 10. How do collection results vary by month, quarter, year, region, and payment method?
 11. Which customers, locations, or collection statuses should be prioritised for further analysis?
+
+## 📈 Dashboard
+<img width="2852" height="1495" alt="Sales   Collection" src="https://github.com/user-attachments/assets/444b7dd7-8d6a-4d38-bc60-f84f930be621" />
+
 
 ## 📌 Key Performance Indicators (KPIs)
 
